@@ -110,7 +110,7 @@ The MinRong JDZ / JDZX series covers 3kV, 6kV, and 10kV indoor voltage transform
 
 Its reference specifications include a 100V secondary voltage and several measurement accuracy class options. Rated output varies according to the selected model and accuracy class, so the final configuration should be checked against the technical documentation.
 
-For product details, see the (JDZ / JDZX 3kV–10kV voltage transformer)[https://minrongdianqi.com/products/voltage-transformer-jdz-3-10kv/] page.
+For product details, see the [JDZ / JDZX 3kV–10kV voltage transformer](https://minrongdianqi.com/products/voltage-transformer-jdz-3-10kv/) page.
 
 Conclusion
 
